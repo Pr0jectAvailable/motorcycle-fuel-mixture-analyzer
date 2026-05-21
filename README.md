@@ -22,9 +22,11 @@ The project is still in its early stages of development, so I think I'll post al
 
 # Media
 
-<video src="https://github.com/Pr0jectAvailable/motorcycle-fuel-mixture-analyzer/raw/main/media/test.mp4" width="100%" controls></video>
+Folder media
+
+<!-- <video src="https://github.com/Pr0jectAvailable/motorcycle-fuel-mixture-analyzer/raw/main/media/test.mp4" width="100%" controls></video>
 
 ## First test
 
-<video src="https://github.com/Pr0jectAvailable/motorcycle-fuel-mixture-analyzer/raw/main/media/stational.mp4" width="100%" controls></video>
+<video src="https://github.com/Pr0jectAvailable/motorcycle-fuel-mixture-analyzer/raw/main/media/stational.mp4" width="100%" controls></video> -->
 
